@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50b54432-727c-49f6-ba78-65648ffccc15": {
+      "ProjectGuid": "50b54432-727c-49f6-ba78-65648ffccc15",
+      "DisplayName": "Make Djikstras Work",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

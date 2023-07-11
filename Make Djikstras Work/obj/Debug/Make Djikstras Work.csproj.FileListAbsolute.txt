@@ -1,0 +1,16 @@
+C:\Users\jasmi\Downloads\Make Djikstras Work\Make Djikstras Work\obj\Debug\Make Djikstras Work.csproj.AssemblyReference.cache
+C:\Users\jasmi\Downloads\Make Djikstras Work\Make Djikstras Work\obj\Debug\Make Djikstras Work.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Downloads\Make Djikstras Work\Make Djikstras Work\obj\Debug\Make Djikstras Work.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Downloads\Make Djikstras Work\Make Djikstras Work\bin\Debug\Make Djikstras Work.exe.config
+C:\Users\jasmi\Downloads\Make Djikstras Work\Make Djikstras Work\bin\Debug\Make Djikstras Work.exe
+C:\Users\jasmi\Downloads\Make Djikstras Work\Make Djikstras Work\bin\Debug\Make Djikstras Work.pdb
+C:\Users\jasmi\Downloads\Make Djikstras Work\Make Djikstras Work\obj\Debug\Make Djikstras Work.exe
+C:\Users\jasmi\Downloads\Make Djikstras Work\Make Djikstras Work\obj\Debug\Make Djikstras Work.pdb
+E:\My Drive\Nea-Working-Prototype-on-github\Make Djikstras Work\bin\Debug\Make Djikstras Work.exe.config
+E:\My Drive\Nea-Working-Prototype-on-github\Make Djikstras Work\bin\Debug\Make Djikstras Work.exe
+E:\My Drive\Nea-Working-Prototype-on-github\Make Djikstras Work\bin\Debug\Make Djikstras Work.pdb
+E:\My Drive\Nea-Working-Prototype-on-github\Make Djikstras Work\obj\Debug\Make Djikstras Work.csproj.AssemblyReference.cache
+E:\My Drive\Nea-Working-Prototype-on-github\Make Djikstras Work\obj\Debug\Make Djikstras Work.csproj.SuggestedBindingRedirects.cache
+E:\My Drive\Nea-Working-Prototype-on-github\Make Djikstras Work\obj\Debug\Make Djikstras Work.csproj.CoreCompileInputs.cache
+E:\My Drive\Nea-Working-Prototype-on-github\Make Djikstras Work\obj\Debug\Make Djikstras Work.exe
+E:\My Drive\Nea-Working-Prototype-on-github\Make Djikstras Work\obj\Debug\Make Djikstras Work.pdb
